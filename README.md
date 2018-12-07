@@ -1,11 +1,11 @@
-# Insight Code Chanllenge
+# H1b-Statistic 
 
 1. [Problem](README.md#problem)
 2. [Approach](README.md#input-dataset)
 3. [Run Instructions](README.md#instructions)
 
 # Problem
-Based on researching the immigration data, one should find the top 10 occupations and top 10 states which hold the most H1B (H-1B,H-1B1,E-3) visa each year. The code should be clean, modular and reusable for future. 
+Based on researching the immigration data, I find the top 10 occupations and top 10 states which hold the most H1B (H-1B,H-1B1,E-3) visa each year. The code is clean, modular and reusable for future. 
 
 # Approach  
 
